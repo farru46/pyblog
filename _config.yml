@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: My Data Science Blog
+description: This blog is meant to be a repository of my work in Python as well as some tips and tricks learnt along the way. It will also serve as a repo of my notes on the subject of Data Science
 github_username: farru46
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "pyblog"
